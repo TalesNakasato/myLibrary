@@ -1,5 +1,16 @@
 # base
 
+## installing and running the program
+
+```
+# download myBooksDB and configure it in SQL Server Management Studio
+
+# run the exe. on back-end-correct\Win32\Debug\backendBooks.exe
+
+# open the myLibrary in a terminal and do the project setup and Compiles and hot-reloads for development 
+
+```
+
 ## Project setup
 
 ```
