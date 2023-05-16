@@ -1,5 +1,13 @@
 # base
 
+## infos
+```
+The intention of this project was trainig my API skills, using Horser (framework for Delphi based on Express that the company i work uses).
+
+Used technologies: Front-End: Vue.js 3, Vuetify and CSS.
+                   Back-End: Delphi and Horse.
+```
+
 ## installing and running the program
 
 ```
