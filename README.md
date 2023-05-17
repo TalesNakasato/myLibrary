@@ -6,6 +6,7 @@ The intention of this project was trainig my API skills, using Horser (framework
 
 Used technologies: Front-End: Vue.js 3, Vuetify and CSS.
                    Back-End: Delphi and Horse.
+                   DB: SQL Server.
 ```
 
 ## installing and running the program
